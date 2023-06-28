@@ -1,6 +1,6 @@
 # Nifty-PM-Extension
 <a href = "https://niftypm.com/"> Nifty PM📁</a> (Project Management tool) extension for <a href = "https://www.zoho.com/en-in/cliq/">Zoho Cliq</a> ( Communication platform ), Extensions are bundles of practicable code integrations, containing commands, bots, message actions, functions, schedulers and databases combined together to suit your client or user requirements.
-Nifty is the remote collaboration hub to manage projects, tasks, and communications — all in one place. I integrated the commonly used niftyPM operations and features to zoho cliq for quick and simple interaction with the help API calls.
+<br>Nifty is the remote collaboration hub to manage projects, tasks, and communications — all in one place. I integrated the commonly used niftyPM operations and features to zoho cliq for quick and simple interaction with the help API calls.
 . 
 ##   Integrated Functionalities ✅:
 
